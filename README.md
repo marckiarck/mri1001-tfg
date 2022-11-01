@@ -12,7 +12,7 @@ The main mechanics of the game will consist of manipulating physics and time to 
 ![Plat2D](https://img.shields.io/badge/Platformer_2D-87F5F5?style=for-the-badge&logo=unity&logoColor=black&labelColor=D8D8D8)
 
 ## About the game
-<img src = "https://user-images.githubusercontent.com/13780925/199301899-2af3104e-2ed4-4554-a64d-e864415226e7.PNG" style="width:65%;height:65%;">
+<img src = "https://user-images.githubusercontent.com/13780925/199301899-2af3104e-2ed4-4554-a64d-e864415226e7.PNG" style="width:75%;height:75%;">
 
 ## My contribution to the project
 
@@ -44,7 +44,7 @@ Las principales mecánicas del juego consistirán en influir sobre la física y 
 ![VideoGames](https://img.shields.io/badge/VideoJuegoss-87F5F5?style=for-the-badge&logo=unity&logoColor=black&labelColor=D8D8D8)
 
 ## Sobre el juego
-<img src = "https://user-images.githubusercontent.com/13780925/199231242-0bd76b77-0688-4c0f-a149-a7586bb94217.PNG" style="width:70%;height:70%;">
+<img src = "https://user-images.githubusercontent.com/13780925/199231242-0bd76b77-0688-4c0f-a149-a7586bb94217.PNG" style="width:80%;height:80%;">
 
 ## Mi contribución al proyecto
 
